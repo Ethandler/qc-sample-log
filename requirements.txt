@@ -4,3 +4,4 @@ sqlalchemy
 typer
 rich
 pydantic
+reportlab
