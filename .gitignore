@@ -9,4 +9,12 @@ __pycache__/
 
 .DS_Store
 Thumbs.db
+
+# Build output
 /frontend/dist/
+/daily_sample_log.csv
+/daily_sample_log.pdf
+
+# Node junk
+/node_modules/
+/package-lock.json
